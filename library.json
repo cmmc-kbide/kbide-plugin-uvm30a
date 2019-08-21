@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-uvm30a",
+  "title": "uvm30a",
+  "keywords": "uvm30a, esp32, esp8266, arduino",
+  "description": "uvm30a plugin for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-uvm30a/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-uvm30a/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
